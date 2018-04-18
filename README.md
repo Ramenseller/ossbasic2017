@@ -1,5 +1,5 @@
-#Introduction
+# Introduction
 
 #include <stdio.h>
 
-*This is just for testing git
+* This is just for testing git
